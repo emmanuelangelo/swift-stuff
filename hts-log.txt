@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 20 Mar 2022 12:19:31 at https://getx2mutiplebonus.com/bnc-xmax-2x.live/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://getx2mutiplebonus.com/bnc-xmax-2x.live/ -O1 "C:\Users\Emmanuel LEO\Downloads\new file" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:21:22	Error: 	"Not Found" (404) at link https://getx2mutiplebonus.com/bnc-xmax-2x.live/static/Files/index.html (from https://getx2mutiplebonus.com/bnc-xmax-2x.live/ETH/index.html)
+12:21:29	Error: 	"Not Found" (404) at link https://getx2mutiplebonus.com/bnc-xmax-2x.live/Version/ (from https://getx2mutiplebonus.com/bnc-xmax-2x.live/scripts/TweenMax.min.js)
+12:21:29	Error: 	"Not Found" (404) at link https://getx2mutiplebonus.com/TweenLite.js (from https://getx2mutiplebonus.com/bnc-xmax-2x.live/scripts/MorphSVGPlugin.min.js)
+12:21:29	Warning: 	Retry after error -4 (Connect Error) at link localhost:3000/static/js/WidgetIframe.js (from https://getx2mutiplebonus.com/widget-v4.tidiochat.com/1_80_0/static/js/render.106c619fdca921c17d56.js)
+12:21:29	Error: 	"Not Found" (404) at link https://getx2mutiplebonus.com/bnc-xmax-2x.live/DOGE/popper.js (from https://getx2mutiplebonus.com/maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js)
+12:21:31	Warning: 	Retry after error -4 (Connect Error) at link localhost:3000/static/js/WidgetIframe.js (from https://getx2mutiplebonus.com/widget-v4.tidiochat.com/1_80_0/static/js/render.106c619fdca921c17d56.js)
+12:21:34	Error: 	"Connect Error" (-4) after 2 retries at link localhost:3000/static/js/WidgetIframe.js (from https://getx2mutiplebonus.com/widget-v4.tidiochat.com/1_80_0/static/js/render.106c619fdca921c17d56.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 3 seconds : 195 links scanned, 187 files written (11108304 bytes overall) [8376090 bytes received at 68098 bytes/sec], 3651855 bytes transferred using HTTP compression in 143 files, ratio 22%, 12.8 requests per connection
+(5 errors, 2 warnings, 0 messages)
